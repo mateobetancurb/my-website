@@ -102,6 +102,16 @@ export const ui = {
           ],
         },
         {
+          title: 'Sussana Correa',
+          description: 'A bilingual personal brand site for a digital content strategist, presenting services, case studies, UGC-style content, testimonials, and a direct WhatsApp conversion path.',
+          tags: ['Brand Site', 'Astro', 'Content Strategy'],
+          image: '/project-sussana-correa.webp',
+          url: 'https://sussanacorrea.com/',
+          socials: [
+            { label: 'WhatsApp', icon: 'whatsapp', url: 'https://wa.me/573104647152?text=Hola%20Sussana%2C%20vi%20tu%20sitio%20web%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20mi%20estrategia%20de%20contenido.' },
+          ],
+        },
+        {
           title: 'Medallo House Productions',
           description: 'A production brand website preview. The live site is currently protected by a Vercel checkpoint, so this card uses a temporary visual until verified assets are accessible.',
           tags: ['Production', 'Brand Site', 'Preview'],
@@ -270,6 +280,16 @@ export const ui = {
           socials: [
             { label: 'Instagram', icon: 'instagram', url: 'https://www.instagram.com/alejandramel0?igsh=MTQwcHdvdnRpOHVpeg==' },
             { label: 'WhatsApp', icon: 'whatsapp', url: 'https://wa.me/573134810577?text=%C2%BFTienes%20dudas%20sobre%20Sunday%20Reset%3F%20Hablemos.' },
+          ],
+        },
+        {
+          title: 'Sussana Correa',
+          description: 'Un sitio bilingüe de marca personal para una estratega de contenido digital, con servicios, casos, contenido tipo UGC, testimonios y conversión directa por WhatsApp.',
+          tags: ['Sitio de Marca', 'Astro', 'Estrategia Digital'],
+          image: '/project-sussana-correa.webp',
+          url: 'https://sussanacorrea.com/',
+          socials: [
+            { label: 'WhatsApp', icon: 'whatsapp', url: 'https://wa.me/573104647152?text=Hola%20Sussana%2C%20vi%20tu%20sitio%20web%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20mi%20estrategia%20de%20contenido.' },
           ],
         },
         {
